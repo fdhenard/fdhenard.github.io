@@ -8,5 +8,5 @@
 - `$ git commit -m "merge from master"`
 - `$ git push`
 
-taken from a combination of this: https://stackoverflow.com/a/16957483/59439
-and this: https://stackoverflow.com/a/29048781/59439
+taken from a combination of this: (https://stackoverflow.com/a/16957483/59439)
+and this: (https://stackoverflow.com/a/29048781/59439)
