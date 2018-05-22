@@ -1,3 +1,4 @@
+# Git - How to merge from master to a feature branch
 
 - `$ git checkout master`
 - `$ git pull`
