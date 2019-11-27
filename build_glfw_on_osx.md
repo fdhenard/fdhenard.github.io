@@ -7,9 +7,10 @@ Compile notes are [here](http://www.glfw.org/docs/latest/compile.html)
 - install cmake.  I'm using the gui.  `$ brew cask install cmake`
 - download source from [here](http://www.glfw.org/download.html)
 - extract zip file and move directory to something like `~/dev/native_dependencies/`.  After doing this, my path is `~/dev/native_dependencies/glfw-3.2.1/...`.
-- open cmake
-- browse source to `~/dev/native_dependencies/`
 - create a directory called `build` in `.../native_dependencies/glfw-3.2.1/` so `.../native_dependencies/glfw-3.2.1/build/`
+- open cmake
+- browse source to `~/dev/native_dependencies/glfw-3.2.1/`
+- browse build to `~/dev/native_dependencies/glfw-3.2.1/build/`
 - configure
     - click "configure"
     - select "Unix makefiles" for generator
